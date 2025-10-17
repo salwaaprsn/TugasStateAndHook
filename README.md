@@ -16,6 +16,8 @@ npm install
 # 3. Jalankan aplikasi
 npx react-native run-android
 
+```
+
 ---
 
 ## 📂 Struktur Folder
