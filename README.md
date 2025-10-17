@@ -42,10 +42,10 @@ Navigation/
 ├── babel.config.js
 └── metro.config.js
 
-
+```
 ---
 
 # 📝 Dibuat Oleh
 
-*Nama:* Salwa Aprilia Santi  
-*Kelas:* TI23F
+Nama: Salwa Aprilia Santi  
+Kelas: TI23F
