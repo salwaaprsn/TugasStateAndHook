@@ -21,7 +21,7 @@ npx react-native run-android
 ---
 
 ## 📂 Struktur Folder
- bash
+```bash
 Navigation/
 ├── App.tsx
 ├── package.json
@@ -43,6 +43,7 @@ Navigation/
 └── metro.config.js
 
 ```
+
 ---
 
 # 📝 Dibuat Oleh
