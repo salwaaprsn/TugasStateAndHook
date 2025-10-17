@@ -14,4 +14,36 @@ cd Navigation
 npm install      
 
 # 3. Jalankan aplikasi
-npx react-native run-android  
+npx react-native run-android
+
+---
+
+## 📂 Struktur Folder
+ bash
+Navigation/
+├── App.tsx
+├── package.json
+├── package-lock.json
+├── assets/
+│   └── images/
+│       ├── labuanbajo.jpg
+│       ├── hotel.jpg
+│       ├── user.jpg
+│       ├── user2.jpg
+│       ├── user3.jpg
+│       ├── user4.jpg
+│       └── user5.jpg
+├── src/
+├── hasil_implementasi/
+│   ├── TampilanDiHandphone.jpg
+│   └── VideoDiHandphone.mp4
+├── babel.config.js
+└── metro.config.js
+
+
+---
+
+# 📝 Dibuat Oleh
+
+*Nama:* Salwa Aprilia Santi  
+*Kelas:* TI23F
